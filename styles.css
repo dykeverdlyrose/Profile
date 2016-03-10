@@ -150,14 +150,9 @@ footer {
 }
 
 footer .copyright {
-	bottom:0
   top: -8px;
   font-size: .75em;
 }
-
-
-
-
 
 .clearfix {
   clear: both;
